@@ -12,4 +12,4 @@ This is a very crude and simple app to help the engineers and family members of 
 
 
 Instructions:
-Click on the app_release file to download to device
+Click on the app_release file, then the 3 dots on the right to download to device. Note: you will have to allow 3rd party app download and installations so check with your device.
