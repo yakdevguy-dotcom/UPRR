@@ -12,4 +12,4 @@ This is a very crude and simple app to help the engineers and family members of 
 
 
 Instructions:
-Click on the app_release file, then the 3 dots on the right to download to device. Note: you will have to allow 3rd party app download and installations so check with your device.
+[Click to go to download page](https://github.com/yakdevguy-dotcom/UPRR/releases/tag/UPRR), then click the app_release apk file to begin download. Note: you will have to allow 3rd party app download and installations so check with your device.
